@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Steam 游戏库存卡片视图 + 导出工具
 // @namespace    https://github.com/SmallRob/steam-card-view
-// @version      1.3.0
+// @version      1.3.1
 // @description  将Steam游戏库存页面改为卡片展示，增加导出JSON和CSV功能按钮，支持搜索过滤、分页、自动加载全部游戏和成就展示
 // @author       SmallRob
 // @match        https://steamcommunity.com/*/games/*
@@ -22,10 +22,10 @@
 // @connect      shared.cloudflare.steamstatic.com
 // @run-at       document-idle
 // @license      MIT
-// @homepageURL  https://github.com/SmallRob/steam-card-view
-// @supportURL   https://github.com/SmallRob/steam-card-view/issues
-// @updateURL    https://github.com/SmallRob/steam-card-view/raw/main/steam-games-card-view.user.js
-// @downloadURL  https://github.com/SmallRob/steam-card-view/raw/main/steam-games-card-view.user.js
+// @homepageURL  https://github.com/SmallRob/steam-games-card-view
+// @supportURL   https://github.com/SmallRob/steam-games-card-view/issues
+// @downloadURL https://update.greasyfork.org/scripts/579459/Steam%20%E6%B8%B8%E6%88%8F%E5%BA%93%E5%AD%98%E5%8D%A1%E7%89%87%E8%A7%86%E5%9B%BE%20%2B%20%E5%AF%BC%E5%87%BA%E5%B7%A5%E5%85%B7.user.js
+// @updateURL https://update.greasyfork.org/scripts/579459/Steam%20%E6%B8%B8%E6%88%8F%E5%BA%93%E5%AD%98%E5%8D%A1%E7%89%87%E8%A7%86%E5%9B%BE%20%2B%20%E5%AF%BC%E5%87%BA%E5%B7%A5%E5%85%B7.meta.js
 // ==/UserScript==
 
 (function () {
