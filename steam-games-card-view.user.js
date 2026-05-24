@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Steam 游戏库存卡片视图 + 导出工具
-// @namespace    https://github.com/steam-card-view
+// @namespace     https://github.com/SmallRob/steam-card-view
 // @version      1.3.0
 // @description  将Steam游戏库存页面改为卡片展示，增加导出JSON和CSV功能按钮，支持搜索过滤、分页、自动加载全部游戏和成就展示
 // @author       SmallRob
